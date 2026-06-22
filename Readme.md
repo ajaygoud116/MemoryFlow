@@ -122,6 +122,4 @@ User Conversation
 - Autonomous Research Agents
 
 ---
-
-**Author:** Ajay Goud Kamugaru  
-**Project:** Bharat Academix CodeQuest 2026  
+ 
